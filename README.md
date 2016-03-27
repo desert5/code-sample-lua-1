@@ -10,4 +10,4 @@ m (x) (y) (d) - move
 where:  
 x - x coordinate of target cell  
 y - y coordinate of target cell  
-d - direction in which cell needs to be moved (possible values: l(left), r(right), u(up), d(down)  
+d - direction in which cell needs to be moved (possible values: l(left), r(right), u(up), d(down))  
